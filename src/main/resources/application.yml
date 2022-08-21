@@ -10,9 +10,9 @@ spring:
   application:
     name: greeting-api-gateway
 
-  cloud:
-    gateway:
-      discovery:
-        locator:
-          enabled: true
-          lower-case-service-id: true
+  #cloud:
+  #  gateway:
+  #    discovery:
+  #      locator:
+  #        enabled: true
+  #        lower-case-service-id: true
